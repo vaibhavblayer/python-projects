@@ -1,0 +1,985 @@
+_HiStOrY_V2_
+import\040sys
+sys.executable
+from\040pymongo.mongo_client\040import\040MongoClient
+exit()
+from\040pymongo.mongo_client\040import\040MongoClient
+import\040sys
+sys.executable
+import\040pymongo
+from\040pymongo.mongo_client\040import\040MongoClient
+exit()
+import\040pymongo
+import\040http
+exit()
+import\040sys
+sys.executable
+import\040math
+import\040crypt
+sys.executable(math)
+exit()
+import\040sys
+sys.executable
+exit()
+import\040sys
+sys.executable
+import\040pymongo
+import\040pandas
+import\040numpy
+import\040pandas
+exit()
+import\040pandas
+import\040pymongo
+import\040pandas
+dir(mongo)
+dir(pymongo)
+help(pymongo)
+url\040=\040"mongodb://127.0.0.1:27017"
+client\040=\040pymongo.MongoClient(url)
+db\040=\040client.test
+db
+help(pymongo)
+help(pymongo.MongoClient)
+help(pymongo.)
+db.list_collections()
+db.name
+db.get_collection()
+db.get_collection(test)
+db.get_collection('test')
+db.get_collection_names()
+db.list_collection_names()
+db.list_collections()
+db.create_collection("profile")
+db.list_collection_names()
+db.profile
+db.profile.insert_one(first_name:"Vaibhav",\040last_name:\040"Blayer")
+db.profile.insert_one(first_name="Vaibhav",\040last_name=\040"Blayer")
+db.profile.insert_one({first_name:"Vaibhav",\040last_name:\040"Blayer"})
+db.profile.insert_one({first_name="Vaibhav",\040last_name=\040"Blayer"})
+db.profile.insert_one({first_name="Vaibhav"})
+db.profile.insert_one({first_name:"Vaibhav"})
+db.profile.insert_one({"first_name":"Vaibhav"})
+db.profile.insert_one({"last_name":"Blayer"})
+db.profile
+list(db.profile)
+db.profile.find()
+list(db.profile.find())
+exit()
+exit
+exit()
+3+4
+a=3
+a
+b=5
+a+b
+a*b
+a/b
+c=\040"hello"
+a+c
+d=true
+d=True
+6/2
+6/4
+6//4
+10/3
+10//3
+10%3
+10%2
++,\040-,\040*,\040/,\040//,\040%
+a=
+a=4
+a\040=,
+a=","
+a\040=\040()
+a\040=\040dict()
+a\040=\040()
+a\040=\0405
+a\040=\040[1,\0402,\0403,\0404]
+import\040numpy
+import\040NumPy
+exit()
+lsdb
+lsdb()
+db.DummyData.list_collection_names()
+db.DummyData.get_collection()
+db.DummyData.get_collection({})
+db.DummyData.get_collection('profile')
+db.DummyData.profile.find()
+db.DummyData.profile.find({})
+db.DummyData.profile.find()
+db.DummyData.profile.find_one()
+db.DummyData.profile.count_documents()
+db.DummyData.profile.count_documents({})
+db.DummyData.profile.find({})
+ls\040=\040db.DummyData.profile.find({})
+for\040item\040in\040ls:
+\011print(item)
+for\040item\040in\040ls:
+\011
+import\040json
+for\040item\040in\040ls:
+\011print(json.dumps(item,\040indent=2))
+for\040item\040in\040ls:
+\011print(item)
+ls\040=\040db.DummyData.profile.find({})
+for\040item\040in\040ls:
+\011print(json.dumps(item,\040indent=2))
+for\040item\040in\040ls:
+\011data\040=\040json.loads(item)
+\011print(json.dumps(data,\040indent=2))
+for\040item\040in\040ls:
+\011print(item.keys())
+exit()
+lsdb()
+exit()
+use\040k2craft
+db.use\040k2craft
+db.use\040'k2craft'
+use\040db.k2craft
+lsdb()
+exit()
+lsdb()
+db.k2craft
+db.k2craft.list_collection_names()
+db.k2craft.get_collection('pots')
+db.k2craft.k2craft.find({})
+db.k2craft.k2craft.find()
+for\040item\040in\040db.k2craft.pots:
+\011print(item)
+db.k2craft.pots.find()
+db.k2craft.k2craft.find({})
+db.k2craft.k2craft.find_one()
+db.k2craft.k2craft.find_one({})
+exit()
+import\040cmath
+a\040=\0403\040+\0402i
+a\040=\0403\040+\0402j
+b\040=\0402\040+\0403j
+a+b
+dir(cmath)
+cmath\040--help
+cmath\040-help
+help(cmath)
+exit()
+help(fac)
+import\040combination
+help(combination)
+help(make)
+a\040=\040MakeComb(4,\0406,\0402,\0406,\040n=3)
+help(combination)
+a\040=\040MakeComb(4,\0406,\0402,\0406,\040n=3)
+from\040combination\040import\040MakeComb
+a\040=\040MakeComb(4,\0406,\0402,\0406,\040n=3)
+a.make()
+help(a)
+help(make)
+b\040=\040a.make()
+help(b)
+help(MakeComb.make)
+help(MakeComb.make())
+help(MakeComb().make())
+help
+help()
+save
+exit()
+qqq
+exit()
+import\040pdf2image
+help(pdf2image.convert_from_path)
+help(pdf2image)
+help(pdf2image.convert_from_bytes)
+help(pdf2image.pdfinfo_from_path)
+exit()
+import\040os
+for\040i\040in\040range(10):
+\011os.wait(1)
+\011print(i)
+help(os.wait3)
+help(os.wait4)
+help(os.wait)
+import\040NumPy
+help(os)
+os.curdir
+help(os)
+os.pardir
+os.pardir.name
+os.pardir.name()
+help(os)
+os.name
+help(os)
+os.path
+help(os)
+help(os.curdir)
+help(os.path)
+os.dirname
+help(os.path)
+os.path.dirname
+print(os.path.dirname)
+ls\040os.path.dirname
+lsdir\040os.path.dirname
+os.path.lsdir
+os.getcwd()
+help(os)
+os.listdir()
+for\040i\040in\040os.listdir():
+\011print(i)
+os.chdir('./images')
+os.getcwd()
+os.listdir()
+for\040i\040in\040os.listdir():
+\011print(i)
+for\040i\040in\040os.listdir():
+\011print(os.path.splitext(i))
+for\040i\040in\040os.listdir():
+\011j,\040k\040=\040os.path.splitext(i)
+\011print(j)
+for\040i\040in\040os.listdir():
+\011j,\040k\040=\040os.path.splitext(i)
+\011print(j.split('-'))
+exit()
+cwd
+exit()
+cwd
+exit()
+files
+exit()
+import\040Numpy
+import\040numpy
+import\040os
+os.executable
+import\040sys
+sys.executable
+import\040numpy
+import\040Numpy
+import\040NumPy
+exit()
+import\040sympy
+a\040=\040[1,\0402,\0403]
+b\040=\040[4,\0405,\0406]
+c\040=\040[[1,2],\040[3,4]]
+c[0]
+c[1]
+z\040=\0404\040+\0405j
+y\040=\0405\040+\0403j
+z+y
+real(z)
+z.real()
+help(z)
+z.real
+z.imag
+import\040sys
+sys.executable
+exit()
+import\040matplotlib
+from\040scipy\040import\040*
+import\040numpy\040as\040np
+exit()
+import\040numpy
+import\040matplotlib.pyplot\040as\040plt
+from\040scipy\040import\040stats
+exit()
+import\040scipy
+from\040scipy\040import\040stats
+exit()
+import\040numpy
+import\040sympy
+fx\040=\040x**4\040+\040x**3
+x\040=\040sympy.Symbol('x')
+fx\040=\040x**4\040+\040x**3
+fx.diff(x)
+gx\040=\040x**2
+gx.diff(x)
+hx\040=\040sqrt(x)
+hx\040=\040math.sqrt(x)
+hx\040=\040sympy.sqrt(x)
+hx.diff(x)
+gx.integrate(x)
+gx.integrate(x,\0400,\0401)
+gx.integrate(x,\040-1,\0401)
+sympy.cos(x).series()
+sympy.solve(x**2\040+\0402*x\040-3)
+a,\040b,\040c\040=\040sympy.symbols('a,\040b,\040c')
+sympy.solve(a*x**2\040+\040b*x\040+\040c,\040x)
+sympy.solve(x**2-4,\040x)
+sympy.Matrix([[1,\0402],\040[3,\0404]]
+sympy.Matrix([[1,\0402],\040[3,\0404]])
+A\040=\040sympy.Matrix([[1,\0402],\040[3,\0404]])
+B\040=\040sympy.Matrix([[1,\0402],\040[4,\0405]])
+A\040+\040B
+A\040*\040B
+exit()
+import\040sympy
+x,\040y\040=\040sympy.symbols('x,\040y')
+f\040=\040x**2\040+\0403*x
+f.diff(x)
+f'\040=\040f.diff(x)
+d_f\040=\040f.diff(x)
+d_f
+help(sympy)
+exit()
+lo
+li
+lo.replace('**',\040'^')
+exit()
+import\040sympy
+x\040=\040sympy.Symobl('x')
+x\040=\040sympy.Symobol('x')
+x\040=\040sympy.Symbol('x')
+f\040=\040sympy.tan(x)
+df\040=\040f.diff(x)
+df
+output\040=\040str(df).replace('**',\040'^')
+output
+output\040=\040str(df).replace('**',\040'^').replace('tan',\040'\134tan')
+output
+output\040=\040str(df).replace('(x)**',\040'^').replace('tan',\040'\134tan')
+intf\040=\040f.integrate(x)
+intf
+df.diff(x)
+df.diff(x).simplify()
+intf.diff(x)
+intf.diff(x).simplify()
+print(latex(sympy.Rational(3,\0405)))
+latex
+from\040sympy\040import\040latex
+print(latex(x**2))
+print(latex(sympy.Rational(3,\0405)))
+pprint(df)
+df.pprint()
+df.pprint
+from\040sympy\040import\040pprint
+pprint(df)
+latex(intf)
+latex(f.integrate(x))
+from\040sympy.plotting\040import\040plot
+p1\040=\040plot(x*x)
+q
+help(plot)
+p1\040=\040plot(x*x,\040(x,\040-5,\0405))
+p1\040=\040plot(x*x,x,\040(x,\040-5,\0405))
+p1\040=\040plot(x*x,x**3,x**4,\040x,\040\040(x,\040-5,\0405))
+p1\040=\040plot(x*x,x**3,x**4,\040x,\040\040(x,\040-2,\0402))
+from\040sympy.plotting\040import\040plot3d
+x,\040y\040=\040sympy.symbols('x,\040y')
+plot3d(x*y,\040(x,\040-5,\0405),\040(y,\040-5,\0405))
+plot3d(x*y,x**2,\040(x,\040-5,\0405),\040(y,\040-5,\0405))
+help(plot)
+p2\040=\040plot_implicit(y>x**2)
+from\040sympy\040import\040plot_implicit
+p2\040=\040plot_implicit(y>x**2)
+help(plot)
+p2.save()
+p2.save('./parabolaFill.png')
+help(plot)
+p2\040=\040plot_implicit(y>x**2,\040size:(2000,\0402000))
+p2\040=\040plot_implicit(y>x**2,\040size=(2000,\0402000))
+p2\040=\040plot_implicit(y>x**2,\040size=(200,\040200))
+p2\040=\040plot_implicit(y>x**2,\040size=(20,\04020))
+p2.save('./h.png')
+exit()
+input()
+Hello
+a\040=\040['one',\040'two',\040'three']
+for\040item\040in\040a:
+\011print(item.index)
+\011print(item.index())
+for\040item\040in\040a:
+\011print(item.index())
+for\040item\040in\040a:
+\011print(index(item))
+for\040item\040in\040a:
+\011print(item.index)
+a\040=\040input()
+Hello
+print(a)
+help(input)
+input(prompt\040=\040'Hello')
+input(prompt)
+input('prompt')
+zfill(input())
+help(zfil)
+input().zfill(2)
+5
+exit()
+import\040sympy
+from\040sympy\040import\040latex
+help(latex)
+x,\040y\040=\040sympy.symbols('x,\040y')
+from\040sympy\040import\040Integral
+help(Integral)
+Integral(x,\040(x,\0400,\0405))
+latex(Integral(x,\040(x,\0400,\0405)))
+Integral(x,\040(x,\0400,\0405)).doit()
+Integral(sin(x),\040(x,\0400,\0405)).doit()
+Integral(sympy.sin(x),\040(x,\0400,\0405)).doit()
+Integral(sympy.sin(x),\040(x,\0400,\0405)).simplify()
+Integral(sympy.sin(x),\040(x,\0400,\0405)).simplify().doit()
+Integral(sympy.sin(x),\040(x,\0400,\0405)).doit().value()
+Integral(sympy.sin(x),\040(x,\0400,\0405)).doit().n(2)
+Integral(sympy.sin(x),\040(x,\0400,\0405)).doit().n(5)
+Integral(sympy.sin(x),\040(x,\0400,\0405)).doit().n(9)
+Integral(sympy.sin(x),\040(x,\0400,\0405)).doit().n(3)
+Integral(sympy.sin(x),\040(x,\0400,\0405)).doit().n(2)
+Integral(sympy.sin(x),\040(x,\0400,\0405)).doit().n(4)
+i1\040=\040Integral(sympy.sin(x),\040(x,\0400,\0405))
+i1.limits()
+help(i1)
+i1.limits
+i1.function
+i1.doit
+i1.doit()
+i1.doit().n(4)
+f\040=\040sympy.sin(x)
+f1\040=\040Integral(f,\040x)
+f1.doit()
+f1.limits
+f1.limits(x,\0400,\0401)
+f1.limits((x,),\0400,\0401)
+help(f1.doit)
+f1.doit(x,\0400,\0401)
+f1.doit(x)
+f1.doit(5)
+f1.doit()
+help(
+help(f1.doit().n(4))
+help(sympy.abc)
+from\040sympy.abc\040import\040alpha,\040beta,\040x,\040y
+alpha
+alpha\040=\040Integral(x*x,\040x)
+alpha.doit()
+latex(alpha)
+latex(alpha.doit())
+beta\040=\040Integral(x*x,\040(x,\040-1,\0401))
+latex(beta)
+latex(beta.doit())
+latex(beta.doit().n(3))
+latex(beta.doit().n(5))
+latex(beta.doit().n(2))
+g\040=\040Integral(2*x/(1+x**2),\040(x,\0400,\0401))
+latex(g)
+latex(g.doit())
+latex(g.doit().n(3))
+import\040matplotlib
+matplotlib.path
+import\040matplotlib.pyplot\040as\040plt
+help(plt)
+plt.plot([1,\0402,\0403,\0404])
+plt.plot([1,\0402,\0403,\0404]).show()
+p\040=\040plt.plot([1,\0402,\0403,\0404])
+plt.plot([1,\0402,\0403,\0404]).savefig('g.png')
+from\040sympy.plot\040import\040plot
+from\040sympy\040import\040sympy.plot
+from\040sympy\040import\040plot
+plot(x,\040(x,\0401,\0405))
+help(plot)
+from\040numpy\040import\040linspace
+t\040=\040linspace(0,\0401,\0401000)
+y\040=\040\0405*t
+plt.plot(t,\040y)
+plt.show()
+f\040=\040lamda\040x:\0406*x\040-\0404
+f\040=\040lamda\040X:\0406*X\040-\0404
+exit()
+import\040sys
+sys.executable
+exit()
+import\040manim
+from\040manim\040import\040*
+exit()
+import\040ManimPango
+from\040manim\040import\040ManimPango
+import\040manim
+help(manim)
+help(manim.Scene)
+help(manim)
+import\040sys
+sys.executable
+import\040manimpango
+help(manimpango)
+exit()
+import\040manim
+manim.utils
+help(manim.utils)
+manim._config
+help(manim._config)
+manim.config
+help(manim._config)
+manim.config[frame_height]
+manim.config['frame_height']
+manim.config['frame_width']
+h\040=\040manim.config['frame_height']
+w\040=\040manim.config['frame_width']
+w/h
+manim.config['background_color']
+exit()
+import\040manim
+help(manim.Line)
+help(manim.Axes)
+help(manim.Line)
+exit()
+import\040manim
+help(manim.Axes)
+exit()
+import\040manim\040
+help(manim.SmallDot)
+help(manim.Dot)
+help(manim.LabeledDot)
+help(manim.AnnotationDot)
+help(manim.mobject.geometry.arc)
+exit
+exit()
+from\040sympy\040import\040latex
+from\040sympy\040import\040sin
+from\040sympy.abc\040import\040a,\040b,\040c,\040x
+f\040=\040sin(x)
+from\040sympy\040import\040Integral
+g\040=\040Integral(f,\040x)
+latex(g)
+&=\040latex(g)
+\134&=\040latex(g)
+help(manim.TexTemplate)
+help(manim.Tex)
+import\040manim
+help(manim.TexTemplate)
+help(manim.MathTexTemplate)
+help(manim.MathTex)
+help(manim.TexTemplateFromFile)
+help(manim.TexFontTemplates)
+help(manim.TrueDot)
+help(manim.Table)
+exit()
+item1
+item1.doit()
+latex(item1)
+latex(item1.doit())
+exit()
+hello = 'Hello'
+str(hello)
+dstr('hello')
+from sympy import exp
+from sympy.abc import x
+exp(x)
+'hello'\n
+print('hello'n)
+print('hello'\\n)
+print('hello'\n)
+print('hello'\newline)
+print('hello\newline')
+print('hello\n')
+Rational(2, 4)
+sympy.Rational(3, 4)
+from sympy import Rational
+Rational(3, 4)
+exit()
+import paperclip
+import zipfile
+import PyPDF2
+import time
+import smtplib
+import PIL
+from PIL import Image
+cat = Image.open('./images/python-1.png')
+cat
+help(cat)
+cat.getcolors()
+cc = cat.getcolors()
+cc
+print(cc)
+cc = cat.getcolors(200)
+cc
+print(cc)
+help(cat)
+cat.getdata()
+type(cat.getdata())
+help(cat.getdata())
+cat.width
+cat.tile
+cat.fp
+cat.mode
+cat.map
+cat.png
+cat.size
+cat.text
+cat.format
+cat.filename
+cat.format_description
+cat.show()
+cat.split()
+help(cat.split())
+cat.split()[1]
+cat.split()[1].show()
+cat.split()[0].show()
+cat.split()[2].show()
+cat.split()[3].show()
+for item in cat.split():
+	item.show()
+help(PIL)
+import http
+help(http)
+from http import server
+help(server)
+import https
+dir(http)
+dir(http.server)
+dir(http.server.socket)
+dir(http.HTTPStatus)
+http.HTTPStatus
+http.HTTPStatus()
+help(http.HTTPStatus)
+http.HTTPStatus(name)
+http.HTTPStatus(value)
+http.HTTPStatus(name: CONTINUE)
+help(http.HTTPStatus)
+http.HTTPStatus(value=202)
+http.HTTPStatus(value: 202)
+http.HTTPStatus(value= 202)
+http.HTTPStatus(value= 205)
+http.HTTPStatus(value= 405)
+http.HTTPStatus(value= 404)
+http.HTTPStatus(value= 505)
+http.HTTPStatus(value= 500)
+http.client
+help(http.client)
+help(http.server)
+path
+import path
+import django
+from django.urls import path
+help(path)
+dir(path)
+help(path)
+django.http
+dir(django.http)
+help(django.http)
+help(django.db)
+help(django.utils)
+help(django.utils.dates)
+django.utils.dates
+django.utils.dates.MONTHS
+django.utils.dates.MONTHS.get()
+django.utils.dates.MONTHS.get(1)
+dir(django.utils.dates.MONTHS.get)
+help(django.utils.dates.MONTHS.get)
+help(django.utils.dates.MONTHS)
+len(django.utils.dates.MONTHS)
+help(django.utils.dates.MONTHS)
+ior(django.utils.dates.MONTHS)
+help(django.utils.dates.MONTHS)
+sizeof(django.utils.dates.MONTHS)
+help(django.utils.dates.MONTHS)
+repr(django.utils.dates.MONTHS)
+_repr(django.utils.dates.MONTHS)
+_repr_(django.utils.dates.MONTHS)
+help(django.utils.dates.MONTHS)
+for i in iter(django.utils.dates.MONTHS):
+	print(i)
+for i in (django.utils.dates.MONTHS):
+	print(i)
+help(django.utils.dates)
+dir(django.utils.dates)
+dir(django.utils)
+help(django.utils)
+help(django.utils.connection)
+dir(django.utils.connection)
+dir(django.utils.connection.django_settings)
+help(django.utils.connection.django_settings)
+django.apps
+django.apps.config
+django.apps.config.inspect
+django.apps.config.inspect.collections
+django.apps.config.inspect.collections.abc
+django.apps.config.inspect.collections.Counter(2)
+django.apps.config.inspect.collections.Counter()
+next(django.apps.config.inspect.collections.Counter())
+help(django.apps.config.inspect.collections.Counter())
+django.apps.config.inspect.collections.Counter('abc')
+django.apps.config.inspect.collections.Counter('abcdefghijklmnopqrstuvwxyz')
+django
+django.get_version()
+django.VERSION
+django.core
+django.core.serializers
+django.core.serializers.settings
+django.core.serializers.json
+django.core.serializers.json.datetime
+django.core.serializers.json.datetime.time()
+help(django.core.serializers.json.datetime.time())
+help(django.forms)
+help(django.forms.Form)
+help(django.forms.RegexField)
+help(django.forms.RegexField.regex)
+django.forms.RegexField.regex
+type(django.forms.RegexField.regex)
+exit()
+import sympy
+from sympy.abc import a, b, c, x, y
+from sympy import Integral
+from sympy import sin, cos, tan
+f = Integral(1/(1+x**2), x)
+f
+f.doit
+f.doit()
+f.subs(x, tany)
+help(f.subs)
+f.subs(x, tan(y))
+g = f.subs(x, tan(y))
+g.doit()
+f.variables
+g.variables
+Integral(1/x, x)
+Integral(1/x, x).doit
+Integral(1/x, x).doit()
+import https
+import http
+import django
+django.utils.version
+django.utils.version()
+django.utils
+import flask
+import turtle
+import sqlite3
+help(sqlite3)
+help(sqlite3.Connection)
+help(sqlite3.Connection.cursor)
+help(sqlite3.Connection)
+help(sqlite3.Connection.total_changes)
+sqlite3.Connection.total_changes
+sqlite3.Connection.total_changes()
+sqlite3.Connection.total_changes
+sqlite3.Connection.warning
+sqlite3.Connection.Warning
+dir(sqlite3.Connection.Warning)
+sqlite3.version
+sqlite3.version_info
+sqlite3.time
+sqlite3.collections
+sqlite3.collections()
+sqlite3.connect()
+help(sqlite3.connect())
+help(sqlite3.connect)
+sqlite3.connect(":memory:")
+sql = sqlite3.connect(":memory:")
+help(sql)
+help(sql.cursor)
+help(sql.execute)
+dir(sql.execute)
+sql.execute(SELECT)
+import http
+http server 3000
+help(http)
+help(http.server)
+help(http.Server)
+help(http.server)
+help(http)
+from http import server
+help(server)
+server.HTTPServer()
+help(server.HTTPServer)
+server.HTTPServer()
+exit()
+import mssql
+sql
+mssql
+exit()
+import string
+import random
+help(string)
+help(random)
+random.randint(5)
+random.randint(2, 5)
+random.randint(2, 7)
+help(random.randint)
+random.randint(0, 10)
+random.Random()
+help(random.Random)
+r = random.Random()
+next(r)
+r.getstate()
+r.getrandbits()
+help(r.getrandbits)
+r.getrandbits(5)
+r.getrandbits(3)
+r.getrandbits(2)
+r.getrandbits(1)
+r.getrandbits(10)
+r.getrandbits(10000)
+r.getrandbits(1000)
+r.getrandbits(100)
+string.digits
+string.ascii_letters
+string.ascii_lowercase
+st = string.ascii_lowercase
+st[3]
+st[r]
+r
+r = random.randint(1, 25)
+st[r]
+st[random.randomint(1, 25)]
+st[random.randint(1, 25)]
+st[2, 4]
+help(st)
+random.choice
+random.choice()
+help(random.choice)
+name = .join((random.choice(string.ascii_lowercase) for x in range(10)))
+name = ".join((random.choice(string.ascii_lowercase) for x in range(10)))
+name = ".join((random.choice(string.ascii_lowercase) for x in range(10))
+name = ''.join((random.choice(string.ascii_lowercase) for x in range(10)))
+name
+name = ''.join((random.choice(string.ascii_lowercase) for x in range(10)))
+name
+name = random.choice(string.ascii_uppercase).join((random.choice(string.ascii_lowercase) for x in range(10)))
+name
+name = random.choice(string.ascii_uppercase).[join((random.choice(string.ascii_lowercase) for x in range(10)))]
+name = random.choice(string.ascii_uppercase).(join((random.choice(string.ascii_lowercase) for x in range(10))))
+name = random.choice(string.ascii_uppercase)(.join((random.choice(string.ascii_lowercase) for x in range(10)))
+name = ''.join((random.choice(string.ascii_lowercase) for x in range(10)))
+fname = ''.join((random.choice(string.ascii_lowercase) for x in range(1)))
+fname
+fname = ''.join((random.choice(string.ascii_uppercase) for x in range(1)))
+fname
+ffname = fname.join((random.choice(string.ascii_lowercase) for x in range(10)))
+ffname
+ffname = fname.name
+ffname = fname.name()
+ffname = fname.name
+exit()
+import pysqlite
+import apsw
+from PySQLite import*
+help()
+pysqlite
+help(pysqlite)
+.exit
+quit()
+q
+quit()
+import sqlite3
+connection = sqlite3.connect('test.db')
+cursor = connection.cursor()
+cursor.execute(''' create table stocks ( date text, trans text, symbol text, qty real, price real)''')
+cursor.execute(" insert into stocks values('2022-11-04', 'BUY', 'RHAT', 100, 65.35)")
+connection.commit()
+connection.close()
+exit()
+import sqlite3
+c = sqlite3.connect('test.db')
+cursor = c.cursor()
+for i in cursor.execute(' select * from stocks order by price'):
+	print(i)
+help(sqlite3)
+exit()
+import readline
+dir(readline)
+help(readline)
+readline.write_history_file(ph.txt)
+readline.write_history_file('ph.txt')
+help(readline.append_history_file)
+readline.append_history_file(2, python_history.txt)
+readline.append_history_file(2, 'python_history.txt')
+import time
+time.now()
+time.localtime()
+time.gmtime()
+time.clock_gettime()
+time.ctime()
+help(time.ctime)
+time.ctime()
+readline.append_history_file('python_history.txt')
+readline.append_history_file(*, 'python_history.txt')
+readline.append_history_file(100, 'python_history.txt')
+readline.append_history_file(n, 'python_history.txt')
+dir(readline.append_history_file)
+help(readline.append_history_file)
+help(readline)
+readline.get_current_history_length()
+help(readline)
+help(readline.set_auto_history)
+readline.set_auto_history()
+readline.set_auto_history(enable)
+help(readline.set_auto_history)
+readline.set_auto_history(enabled)
+readline.set_auto_history('enabled')
+readline.append_history_file(100, 'python_history.txt')
+help(readline)
+readline.get_begidx()
+readline.redisplay()
+help(readline)
+help(time.ctime)
+time.ctime()
+time.ctime()[4]
+readline.append_history_file(100, 'python_history.txt')
+open
+open(write_history.py)
+import ./write_history.py
+import write_history.py
+Tue Apr 12 01:10:25 2022
+import write_history
+help(readline)
+import write_history
+exit()
+Tue Apr 12 02:19:16 2022
+help(readline)
+import readline
+readline.get_current_history_length()
+readline.write_history_file('1')
+readline.remove_history_item(920)
+readline.write_history_file('2')
+readline.get_history_item(920)
+readline.remove_history_item(920)
+readline.get_history_item(920)
+exit()
+import write_history
+Tue Apr 12 14:45:28 2022
+Tue Apr 12 14:45:28 2022
+import sqlite3
+dir(sqlite3)
+connection = sqlite3.connect('profile.db')
+cursor = connection.cursor()
+dir(cursor)
+dir(cursor.execute)
+help(cursor.execute)
+sql = 'select * from tableone;'
+cursor.execute(sql)
+for i in cursor.execute(sql):
+	print(i)
+sql = 'select * from tableone where name like 'V%' and address like '50%';'
+sql = '''select * from tableone where name like 'V%' and address like '50%';'''
+for i in cursor.execute(sql):
+	print(i)
+for i in cursor.execute(sql):
+for i in enumerate(cursor.execute(sql)):
+	print(i)
+quit()
+import sqlite3
+quit()
+import speech_recognition
+import tty
+help(tty)
+import base64
+help(base64)
+import codecs
+help(codecs)
+m = 'hello'
+t = ''
+while len(m)>=1:
+	t = t + m[len(m)]
+	len(m) -= 1 
+while len(m)>=1:
+	t = t + m[len(m)]
+	len(m) = len(m) - 1 
+len(m)
+i = len(m)-1
+while i>=0:
+	t = t+m[i]
+	i = i-1
+t
+m ='vaibhav blayer'
+t
+i = len(m)-1
+while i>=0:
+	t = t+m[i]
+	i = i-1
+t
+import write_history
+Wed Apr 13 04:55:26 2022

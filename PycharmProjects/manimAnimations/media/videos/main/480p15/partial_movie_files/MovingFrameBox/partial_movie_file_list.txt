@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/vaibhavblayer/PycharmProjects/manimAnimations/media/videos/main/480p15/partial_movie_files/MovingFrameBox/3163782288_3209103656_3560989458.mp4'
+file 'file:/Users/vaibhavblayer/PycharmProjects/manimAnimations/media/videos/main/480p15/partial_movie_files/MovingFrameBox/2201830969_2813046244_3073201231.mp4'
+file 'file:/Users/vaibhavblayer/PycharmProjects/manimAnimations/media/videos/main/480p15/partial_movie_files/MovingFrameBox/2201830969_3493041802_3257151622.mp4'
+file 'file:/Users/vaibhavblayer/PycharmProjects/manimAnimations/media/videos/main/480p15/partial_movie_files/MovingFrameBox/2201830969_2284046347_3383376774.mp4'
+file 'file:/Users/vaibhavblayer/PycharmProjects/manimAnimations/media/videos/main/480p15/partial_movie_files/MovingFrameBox/2201830969_3493041802_431456171.mp4'
